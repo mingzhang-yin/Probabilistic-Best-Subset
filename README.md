@@ -1,3 +1,3 @@
 # Probabilistic-Best-Subset-Selection
 
-[Paper link](https://arxiv.org/pdf/2006.06448.pdf)
+Best subset selection methods as described in [Probabilistic Best Subset Selection via Gradient-Based Optimization](https://arxiv.org/pdf/2006.06448.pdf)
